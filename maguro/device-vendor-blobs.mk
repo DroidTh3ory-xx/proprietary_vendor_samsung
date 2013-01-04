@@ -42,5 +42,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/maguro/proprietary/libsec-ril.so:system/vendor/lib/libsec-ril.so \
     vendor/samsung/maguro/proprietary/libsrv_init.so:system/vendor/lib/libsrv_init.so \
     vendor/samsung/maguro/proprietary/libsrv_um.so:system/vendor/lib/libsrv_um.so \
-    vendor/samsung/maguro/proprietary/libusc.so:system/vendor/lib/libusc.so
+    vendor/samsung/maguro/proprietary/libusc.so:system/vendor/lib/libusc.so \
+    vendor/samsung/toro/proprietary/smc_pa_wvdrm.ift:system/vendor/firmware/smc_pa_wvdrm.ift
 
