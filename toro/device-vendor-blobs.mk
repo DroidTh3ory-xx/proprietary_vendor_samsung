@@ -50,7 +50,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/toro/proprietary/libsec-ril_lte.so:system/vendor/lib/libsec-ril_lte.so \
     vendor/samsung/toro/proprietary/libsrv_init.so:system/vendor/lib/libsrv_init.so \
     vendor/samsung/toro/proprietary/libsrv_um.so:system/vendor/lib/libsrv_um.so \
-    vendor/samsung/toro/proprietary/libusc.so:system/vendor/lib/libusc.so
+    vendor/samsung/toro/proprietary/libusc.so:system/vendor/lib/libusc.so \
+    vendor/samsung/toro/proprietary/smc_pa_wvdrm.ift:system/vendor/firmware/smc_pa_wvdrm.ift
 
 # All the apks necessary for toro
 PRODUCT_PACKAGES += \
